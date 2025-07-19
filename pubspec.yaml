@@ -1,0 +1,83 @@
+name: pehli_gaza_app
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.6 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons:
+  provider:
+  flutter_svg:
+  form_field_validator:
+  google_nav_bar:
+  google_fonts:
+  font_awesome_flutter:
+  rounded_loading_button:
+  responsive_sizer:
+  smooth_page_indicator:
+  page_transition:
+  flutter_chat_ui:
+  animated_bottom_navigation_bar:
+  graphql_flutter:
+  video_player:
+  flutter_cache_manager:
+  skeletonizer:
+  shimmer:
+  flutter_local_notifications:
+  timezone:
+  shared_preferences:
+  permission_handler:
+  device_info_plus:
+  workmanager:
+  intl:
+  awesome_dialog:
+  internet_connection_checker:
+  connectivity_plus:
+  flutter_spinkit:
+  flutter_secure_storage:
+  lottie:
+  firebase_core:
+  firebase_messaging:
+  url_launcher:
+  flutter_timezone:
+  get:
+  youtube_player_flutter:
+  youtube_player_iframe:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints:
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/animation/animation-2.json
+    - assets/animation/alert.json
+    - assets/animation/cong.json
+
+  fonts:
+    - family: NotoNastaliqUrdu
+      fonts:
+        - asset: fonts/noto_nastaliq_urdu/NotoNastaliqUrdu.ttf
+
+    - family: PlusJakartaSans
+      fonts:
+        - asset: fonts/plus_jakarta_sans/PlusJakartaSans-Medium.ttf
+
+    - family: JameelNoori
+      fonts:
+        - asset: fonts/jameel_noori/Jameel_Noori_Nastaleeq_Regular.ttf
+
+    - family: AlQalamTajNastaleeqRegular
+      fonts:
+        - asset: fonts/AlQalamTajNastaleeqRegular.ttf

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "747343471344",
+    "project_id": "pehli-ghiza",
+    "storage_bucket": "pehli-ghiza.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747343471344:android:8217a7b3d533d0d9445835",
+        "android_client_info": {
+          "package_name": "com.example.pehli_gaza_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc7K0fsQ5tRKVNhJSneeRZ_ddAYEIr3VE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
